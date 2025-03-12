@@ -24,4 +24,4 @@ Este repositório contém a API de produtos desenvolvida com **NestJS**, **Prism
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/RobsonPMartins/nestjs-prisma-mariadb-products-api.git
